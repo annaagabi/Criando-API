@@ -1,0 +1,7 @@
+Terminal:
+
+// Instalar o package.json
+npm init -y
+
+// Instalar node
+npm i express nodemon mongoose
